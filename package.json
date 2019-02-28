@@ -11,9 +11,9 @@
     "url": "git+https://github.com/jldamians/facturactiva.git"
   },
   "keywords": [
-    "facturactiva", 
-    "pse", 
-    "cpe", 
+    "facturactiva",
+    "pse",
+    "cpe",
     "sunat"
   ],
   "author": "",
@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/jldamians/facturactiva/issues"
   },
-  "homepage": "https://github.com/jldamians/facturactiva#readme"
+  "homepage": "https://github.com/jldamians/facturactiva#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
 }
