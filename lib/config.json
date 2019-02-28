@@ -1,0 +1,8 @@
+{
+  "development": {
+    "server": "http://104.236.118.28:3000"
+  },
+  "production": {
+    "server": "http://api.emisores.facturactiva.com"
+  }
+}
