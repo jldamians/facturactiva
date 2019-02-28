@@ -1,0 +1,25 @@
+{
+  "name": "facturactiva",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jldamians/facturactiva.git"
+  },
+  "keywords": [
+    "facturactiva", 
+    "pse", 
+    "cpe", 
+    "sunat"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jldamians/facturactiva/issues"
+  },
+  "homepage": "https://github.com/jldamians/facturactiva#readme"
+}
