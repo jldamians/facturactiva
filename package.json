@@ -24,6 +24,9 @@
   "homepage": "https://github.com/jldamians/facturactiva#readme",
   "dependencies": {
     "bluebird": "^3.5.3",
-    "request": "^2.88.0"
+    "http-status-codes": "^1.4.0",
+    "moment": "^2.24.0",
+    "request": "^2.88.0",
+    "sunat-catalogs": "^1.0.7"
   }
 }
